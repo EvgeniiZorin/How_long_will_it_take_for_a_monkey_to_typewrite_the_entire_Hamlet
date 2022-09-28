@@ -3,7 +3,6 @@
 You have probably heard the Infinite Monkey theorem, which states the following:
 
 > "A monkey hitting keys at random on a typewriter keyboard for an infinite amount of time 
->
 > will almost surely type any given text, 
 >
 > such as the complete works of William Shakespeare"
