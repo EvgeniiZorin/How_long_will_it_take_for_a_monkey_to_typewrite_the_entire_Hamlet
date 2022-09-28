@@ -6,6 +6,6 @@ You have probably heard **the Infinite Monkey theorem**, which states the follow
 
 It is always said that this will happen in an infinitely large amount of time, but have you ever wandered <u>just how long exactly</u> will it take to achieve this? 
 
-This exact question motivated me to do my own research. 
+This exact question motivated me to ~waste hours of my time~ do my own research. 
 
 Please open `Shakespeare_monkeys.ipynb` and check out my findings :)
